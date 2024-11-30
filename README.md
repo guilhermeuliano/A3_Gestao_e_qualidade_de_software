@@ -14,7 +14,27 @@ Projeto Final de Disciplina
 - [Thomas Labes](https://github.com/Thomaslabes)
 ## Documentação
 
- [Clique aqui](driver) para acessar a documentação.
+ [Clique aqui](https://link-da-documentação) para acessar a documentação.
+
+
+## Referência
+
+ - Site utilizado  para testes: [Demoblaze](https://www.demoblaze.com/index.html)
+
+
+
+## Arquivos 
+
+Os arquivos de testes do Cypress são encontrados no diretório
+
+cypress/\
+├── e2e/\
+│   ├── buy/\
+│   │   └── buying.cy.js\
+│   ├── cart/\
+│   │   └── add-cart.cy.js\
+│   ├── login/\
+│   │   └── login-logout.cy.js
 
 
 ## Ferramentas utilizadas
