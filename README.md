@@ -1,7 +1,7 @@
 
 # Ciclo Completo de Testes de Software
 
-Projeto Final de Disciplina
+Neste trabalho, elaboramos o ciclo completo de testes de software como componente do projeto final da matéria. Usamos o site Demoblaze **https://www.demoblaze.com/**, Site de demonstração para simular interações com uma loja online.
 
 
 ## Autores
@@ -10,36 +10,23 @@ Projeto Final de Disciplina
 - [Gabriel Vieira](https://github.com/Gabrielvieira1215)
 - [Guilherme Uliano](https://github.com/guilhermeuliano)
 - [Luan Galvani](https://github.com/Luangalvani)
-- [Pedro](https://github.com/SmurfdoPedro)
+- [Pedro Neves Marques de Aquino](https://github.com/SmurfdoPedro)
 - [Thomas Labes](https://github.com/Thomaslabes)
-## Documentação
+## Documentação e Arquivos do projeto
 
- [Clique aqui](https://link-da-documentação) para acessar a documentação.
-
-
+A documentação do projeto está no diretório [documentation](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/documentation)\
+Os arquivos de testes do Cypress estão no diretório [cypress/e2e/](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/cypress/e2e)\
+Os arquivos de teste de carga e limite estão no diretório
 ## Referência
 
- - Site utilizado  para testes: [Demoblaze](https://www.demoblaze.com/index.html)
+ Site utilizado  para testes: [Demoblaze](https://www.demoblaze.com/index.html)
 
-
-
-## Arquivos 
-
-Os arquivos de testes do Cypress são encontrados no diretório
-
-cypress/\
-├── e2e/\
-│   ├── buy/\
-│   │   └── buying.cy.js\
-│   ├── cart/\
-│   │   └── add-cart.cy.js\
-│   ├── login/\
-│   │   └── login-logout.cy.js
 
 
 ## Ferramentas utilizadas
 
-**Para testes:** Cypress e JMeter
+*Cypress* foi utilizado para automatizar testes funcionais\
+*JMeter* foi utilizado para realizar testes de carga e desempenho
 
 
 ## Screenshots
