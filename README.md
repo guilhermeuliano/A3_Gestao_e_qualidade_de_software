@@ -16,7 +16,9 @@ Neste trabalho, elaboramos o ciclo completo de testes de software como component
 
 A documentação do projeto está no diretório [documentation](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/documentation)\
 Os arquivos de testes do Cypress estão no diretório [cypress/e2e/](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/cypress/e2e)\
-Os arquivos de teste de carga e limite estão no diretório
+Os arquivos de teste de carga e limite estão no diretório [Jmeter](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/Jmeter)
+
+
 ## Referência
 
  Site utilizado  para testes: [Demoblaze](https://www.demoblaze.com/index.html)
@@ -29,7 +31,9 @@ Os arquivos de teste de carga e limite estão no diretório
 *JMeter* foi utilizado para realizar testes de carga e desempenho
 
 
-## Screenshots
+## Demonstração
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Compra realizada com sucesso
+![Compra realizada com sucesso!](https://i.imgur.com/EXV2HBR.png)
+
 
