@@ -18,6 +18,19 @@ A documentação do projeto está no diretório [documentation](https://github.c
 Os arquivos de testes do Cypress estão no diretório [cypress/e2e/](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/cypress/e2e)\
 Os arquivos de teste de carga e limite estão no diretório [Jmeter](https://github.com/guilhermeuliano/A3_Gestao_e_qualidade_de_software/tree/main/Jmeter)
 
+## Preparando o ambiente
+
+Para rodar os testes, precisa instalar o [Node.js](https://nodejs.org/pt)\
+Após instalar o Node, instalamos o [Cypress](https://www.cypress.io/) com o comando no terminal
+
+```bash
+  npm install cypress --save-dev
+```
+Para abrir o Cypress usamos o comando
+```bash
+  npx cypress open
+```
+O [Jmeter](https://jmeter.apache.org/download_jmeter.cgi) foi baixado a versão mais recente: *5.6.3*
 
 ## Referência
 
