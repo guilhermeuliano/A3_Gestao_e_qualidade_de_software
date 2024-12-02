@@ -33,7 +33,11 @@ Os arquivos de teste de carga e limite estão no diretório [Jmeter](https://git
 
 ## Demonstração
 
+Teste de login
+![Login e logout realizado](https://imgur.com/oo9Fj6N.png)
+
 Compra realizada com sucesso
 ![Compra realizada com sucesso!](https://i.imgur.com/EXV2HBR.png)
+
 
 
