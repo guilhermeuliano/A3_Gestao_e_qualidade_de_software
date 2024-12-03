@@ -52,5 +52,6 @@ Teste de login
 Compra realizada com sucesso
 ![Compra realizada com sucesso!](https://i.imgur.com/EXV2HBR.png)
 
-
+Exemplo de teste realizado
+![Teste de carga!](https://i.imgur.com/NVq5tpW.jpeg)
 
